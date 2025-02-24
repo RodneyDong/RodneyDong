@@ -1,5 +1,6 @@
-## Hi there 👋
+## Hi there 👋 I'm Rodney!
 
+I'm fascinated by everything related to robotics, cars and autonomous systems! I want to use these skills and potentially help others in the future!
 <!--
 **RodneyDong/RodneyDong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
