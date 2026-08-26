@@ -1,10 +1,6 @@
 ## Hi there 👋 I'm Rodney!
 
-I'm fascinated by everything related to robotics, cars and autonomous systems! I want to use these skills and potentially help others in the future!
-
-Currently co-leading the Watonomous F1tenth Racing Team and actively learning more and more about optimization, ML and planning!
-
-😄😄😄 
+Currently co-leading the Watonomous F1tenth Racing Team!
 <!--
 **RodneyDong/RodneyDong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
