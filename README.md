@@ -1,6 +1,5 @@
 ## Hi there 👋 I'm Rodney!
 
-Currently co-leading the Watonomous F1tenth Racing Team!
 <!--
 **RodneyDong/RodneyDong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
